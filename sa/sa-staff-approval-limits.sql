@@ -1,9 +1,8 @@
 /*
-File Name:		sa-staff-approval-limits.sql
-Version:		R12
-Author:			Otcu
-Author URL:		https://github.com/otcu
-
+File Name: sa-staff-approval-limits.sql
+Version: Oracle Release 12 / R12
+Author: Throwing Cheese
+URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
 -- STANDARD APPROVAL LIMITS
 -- COUNT OF VALUES PER JOB TITLE
 -- BIG TALLY LIST

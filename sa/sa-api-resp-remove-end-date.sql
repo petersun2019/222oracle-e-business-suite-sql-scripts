@@ -1,9 +1,8 @@
 /*
-File Name:		sa-api-resp-remove-end-date.sql
-Version:		R12
-Author:			Otcu
-Author URL:		https://github.com/otcu
-
+File Name: sa-api-resp-remove-end-date.sql
+Version: Oracle Release 12 / R12
+Author: Throwing Cheese
+URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
 API that can be used to remove end-dates from responsibilities assigned to users returned by "user_cur" cursor
 Edit IDs as required in the "fnd_user_resp_groups_api.insert_assignment" section
 */

@@ -1,9 +1,8 @@
 /*
-File Name:		01-xla-transaction-entities.sql
-Version:		R12
-Author:			Otcu
-Author URL:		https://github.com/otcu
-
+File Name: 01-xla-transaction-entities.sql
+Version: Oracle Release 12 / R12
+Author: Throwing Cheese
+URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
 XLA_TRANSACTION_ENTITIES
 This table contains a row for each transaction for which events have been raised in Subledger Accounting.
 

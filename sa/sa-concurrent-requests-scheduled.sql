@@ -1,9 +1,8 @@
 /*
-File Name:		sa-concurrent-requests-scheduled.sql
-Version:		R12
-Author:			Otcu
-Author URL:		https://github.com/otcu
-
+File Name: sa-concurrent-requests-scheduled.sql
+Version: Oracle Release 12 / R12
+Author: Throwing Cheese
+URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
 This script was useful when I worked at an organisation where we were upgrading from 11i to R12
 We could use it to extract a list of scheduled requests, returning also when they ran, how often, at which times and one which dates / days of the month etc.
 */

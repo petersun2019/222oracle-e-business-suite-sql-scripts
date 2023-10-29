@@ -1,9 +1,8 @@
 /*
-File Name:		04-xla-ae-lines.sql
-Version:		R12
-Author:			Otcu
-Author URL:		https://github.com/otcu
-
+File Name: 04-xla-ae-lines.sql
+Version: Oracle Release 12 / R12
+Author: Throwing Cheese
+URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
 XLA_AE_LINES
 This table contains the journal entry lines for each subledger accounting journal entry.
 

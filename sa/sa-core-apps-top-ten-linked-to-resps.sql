@@ -1,8 +1,8 @@
 /*
-File Name:		sa-core-apps-top-ten-linked-to-resps.sql
-Version:		R12
-Author:			Otcu
-Author URL:		https://github.com/otcu
+File Name: sa-core-apps-top-ten-linked-to-resps.sql
+Version: Oracle Release 12 / R12
+Author: Throwing Cheese
+URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
 */
 
 -- ##################################################################

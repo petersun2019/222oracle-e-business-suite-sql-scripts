@@ -1,8 +1,8 @@
 /*
-File Name:		sa-folders.sql
-Version:		R12
-Author:			Otcu
-Author URL:		https://github.com/otcu
+File Name: sa-folders.sql
+Version: Oracle Release 12 / R12
+Author: Throwing Cheese
+URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
 
 Queries:
 
@@ -10,8 +10,10 @@ Queries:
 -- FOLDERS AND COLUMNS
 -- COLUMN COUNT PER FOLDER
 -- SHARED WITH...
--- FOLDERS SHARED WITH RESPONSIBILITIES - ADMINISTER FOLDERS SQL
-
+-- FOLDERS SHARED WITH RESPONSIBILITIES - ADMINISTER FOLDERS sql
+Version: Oracle Release 12 / R12
+Author: Throwing Cheese
+URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
 */
 
 -- ##################################################################
@@ -93,8 +95,10 @@ Queries:
 	  order by 1,2,6;
 
 -- ##################################################################
--- FOLDERS SHARED WITH RESPONSIBILITIES - ADMINISTER FOLDERS SQL
--- ##################################################################
+-- FOLDERS SHARED WITH RESPONSIBILITIES - ADMINISTER FOLDERS sql
+Version: Oracle Release 12 / R12
+Author: Throwing Cheese
+URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts-- ##################################################################
 
 		select b.application_short_name
 			 , d.responsibility_name
