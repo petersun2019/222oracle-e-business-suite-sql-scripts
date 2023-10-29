@@ -1,8 +1,8 @@
 /*
-File Name:		ap-checks-all.sql
-Version:		R12
-Author:			Otcu
-Author URL:		https://github.com/otcu
+File Name: ap-checks-all.sql
+Version: Oracle Release 12 / R12
+Author: Throwing Cheese
+URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
 
 Queries:
 

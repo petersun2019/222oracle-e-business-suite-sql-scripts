@@ -1,8 +1,8 @@
 /*
-File Name:		ce-reversed-transactions-matched-to-bank-accounts.sql
-Version:		R12
-Author:			Otcu
-Author URL:		https://github.com/otcu
+File Name: ce-reversed-transactions-matched-to-bank-accounts.sql
+Version: Oracle Release 12 / R12
+Author: Throwing Cheese
+URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
 */
 
 -- ##################################################################

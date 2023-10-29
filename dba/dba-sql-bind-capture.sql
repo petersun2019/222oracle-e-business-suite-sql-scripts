@@ -1,8 +1,8 @@
 /*
-File Name:		dba-sql-bind-capture.sql
-Version:		R12
-Author:			Otcu
-Author URL:		https://github.com/otcu
+File Name: dba-sql-bind-capture.sql
+
+
+
 */
 
 -- ##################################################################

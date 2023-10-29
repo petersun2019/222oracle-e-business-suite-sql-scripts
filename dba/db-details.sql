@@ -1,8 +1,8 @@
 /*
-File Name:		db-details.sql
-Version:		R12
-Author:			Otcu
-Author URL:		https://github.com/otcu
+File Name: db-details.sql
+Version: Oracle Release 12 / R12
+Author: Throwing Cheese
+URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
 
 Queries:
 
@@ -27,8 +27,10 @@ select * from v$parameter order by name;
 select * from v$session s where s.audsid = userenv ('sessionid');
 
 /*
-HTTPS://STACKOVERFLOW.COM/QUESTIONS/16565829/IS-THERE-A-WAY-TO-GET-INFORMATION-ABOUT-A-SERVER-USING-SQL
-HTTPS://ORACLE-BASE.COM/ARTICLES/MISC/IDENTIFYING-HOST-NAMES-AND-ADDRESSES
+HTTPS://STACKOVERFLOW.COM/QUESTIONS/16565829/IS-THERE-A-WAY-TO-GET-INFORMATION-ABOUT-A-SERVER-USING-sql
+Version: Oracle Release 12 / R12
+Author: Throwing Cheese
+URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scriptsHTTPS://ORACLE-BASE.COM/ARTICLES/MISC/IDENTIFYING-HOST-NAMES-AND-ADDRESSES
 */
 
 -- ##################################################################

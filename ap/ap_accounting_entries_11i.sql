@@ -1,8 +1,10 @@
 /*
-File Name:		ap_accounting_entries_11i.sql
-Version:		11i
-Author:			Otcu
-Author URL:		https://github.com/otcu
+File Name: ap_accounting_entries_11i.sql
+Version: Oracle Release 12 / R12
+Author: Throwing Cheese
+URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scriptsVersion:		11i
+
+
 
 Queries:
 

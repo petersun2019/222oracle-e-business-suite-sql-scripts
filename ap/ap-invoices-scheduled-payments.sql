@@ -1,8 +1,8 @@
 /*
-File Name:		ap-invoices-scheduled-payments.sql
-Version:		R12
-Author:			Otcu
-Author URL:		https://github.com/otcu
+File Name: ap-invoices-scheduled-payments.sql
+
+
+
 
 Queries:
 
