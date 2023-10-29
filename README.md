@@ -27,7 +27,7 @@ If you find any errors with joins etc. please let me know as per the `Issues` he
 
 ## Issues
 
-If you have any problems with the scripts, [please log an issue](https://github.com/owlowe/oracle-e-business-suite-sql-scripts/issues) or get in touch using [this contact form](https://jimpix.co.uk/contact/).
+If you have any problems with the scripts, [please log an issue](https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts/issues) or get in touch using [this contact form](https://jimpix.co.uk/contact/).
 
 ## Contents
 
