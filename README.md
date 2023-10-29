@@ -5,7 +5,7 @@ This is a collection of SQL scripts I've built up since starting to work with Or
 
 ## Download
 
-You can download the scripts via [this link](https://github.com/owlowe/oracle-e-business-suite-sql-scripts/archive/refs/heads/main.zip)
+You can download the scripts via [this link](https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts/archive/refs/heads/main.zip)
 
 ## ⚠️Disclaimer
 
