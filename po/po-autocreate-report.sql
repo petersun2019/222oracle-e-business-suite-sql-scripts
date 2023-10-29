@@ -3,8 +3,8 @@ File Name: po-autocreate-report.sql
 Version: Oracle Release 12 / R12
 Author: Throwing Cheese
 URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
-Query I used to use to list all requisitions which were eligible to be converted to POs
 
+Query I used to use to list all requisitions which were eligible to be converted to POs
 */
 
 -- ##################################################################

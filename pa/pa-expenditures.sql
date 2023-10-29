@@ -11,9 +11,7 @@ Queries:
 -- COUNT PER PROJECT AND EXPENDITURE TYPE
 -- EXPENDITURE ITEMS LINKED TO COST ITEMS
 -- ACCOUNTING SUMMARY sql
-Version: Oracle Release 12 / R12
-Author: Throwing Cheese
-URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts-- COUNT OF THE DIFFERENT "TRANSFER_STATUS_CODE" VALUES FROM THE PA_COST_DISTRIBUTION_LINES_ALL TABLE - VERSION 1
+-- COUNT OF THE DIFFERENT "TRANSFER_STATUS_CODE" VALUES FROM THE PA_COST_DISTRIBUTION_LINES_ALL TABLE - VERSION 1
 -- COUNT OF THE DIFFERENT "TRANSFER_STATUS_CODE" VALUES FROM THE PA_COST_DISTRIBUTION_LINES_ALL TABLE - VERSION 2
 -- EXPENDITURE BATCHES
 -- SUMMARY BY BATCH 1
@@ -221,9 +219,7 @@ select * from pa_expenditures_all;
 
 -- ##################################################################
 -- ACCOUNTING SUMMARY sql
-Version: Oracle Release 12 / R12
-Author: Throwing Cheese
-URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts-- ##################################################################
+-- ##################################################################
 
 /*
 PA TRANSACTION SOURCE

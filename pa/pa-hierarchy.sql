@@ -10,9 +10,7 @@ Queries:
 -- PROJECT HIERARCHY TREE VIEW
 -- PROJECT HIERARCHY FLAT VIEW
 -- SAMPLE DATA HIERARCHY sql
-Version: Oracle Release 12 / R12
-Author: Throwing Cheese
-URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts-- BASIC HR ORGS
+-- BASIC HR ORGS
 -- HR ORG CLASSIFICATIONS
 
 */
@@ -69,9 +67,7 @@ select * from apps.per_organization_structures_v;
 
 -- ##################################################################
 -- SAMPLE DATA HIERARCHY sql
-Version: Oracle Release 12 / R12
-Author: Throwing Cheese
-URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts-- ##################################################################
+-- ##################################################################
 
 with sample_data as
 (select 159 organization_id_parent, 'ABC CHEESE' d_parent_name, 2504 organization_id_child, 'ABC CHEESE Blue' d_child_name from dual union all

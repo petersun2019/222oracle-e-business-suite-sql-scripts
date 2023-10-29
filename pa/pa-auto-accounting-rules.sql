@@ -21,9 +21,7 @@ Queries:
 			 , pr.key_source
 			 , pr.constant_value
 			 , pr.select_statement sql
-Version: Oracle Release 12 / R12
-Author: Throwing Cheese
-URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts			 , pr.creation_date cr_dt
+			 , pr.creation_date cr_dt
 			 , fu1.description cr_by
 			 , pr.last_update_date upd_dt
 			 , fu2.description upd_by
