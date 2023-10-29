@@ -1,9 +1,8 @@
 /*
-File Name:		po-get-active-encumbrance.sql
-Version:		R12
-Author:			Otcu
-Author URL:		https://github.com/otcu
-
+File Name: po-get-active-encumbrance.sql
+Version: Oracle Release 12 / R12
+Author: Throwing Cheese
+URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
 11I/12: INCORRECT ENCUMBERED AMOUNT / ACTIVE ENCUMBRANCE /ENCUMBRANCE DETAIL REPORT FOR PURCHASE ORDER - TROUBLESHOOTING (DOC ID 742621.1)
 HTTPS://SUPPORT.ORACLE.COM/RS?TYPE=DOC&ID=742621.1
 SQL-8 COMPARE EXPECTED ENCUMBRANCE REVERSAL AT PAYABLES AND PAYABLES API VALUE PER PO DISTRIBUTION

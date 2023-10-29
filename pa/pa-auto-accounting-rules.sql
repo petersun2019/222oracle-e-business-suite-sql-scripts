@@ -1,8 +1,8 @@
 /*
-File Name:		pa-auto-accounting-rules.sql
-Version:		R12
-Author:			Otcu
-Author URL:		https://github.com/otcu
+File Name: pa-auto-accounting-rules.sql
+Version: Oracle Release 12 / R12
+Author: Throwing Cheese
+URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
 
 Queries:
 
@@ -21,7 +21,9 @@ Queries:
 			 , pr.key_source
 			 , pr.constant_value
 			 , pr.select_statement sql
-			 , pr.creation_date cr_dt
+Version: Oracle Release 12 / R12
+Author: Throwing Cheese
+URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts			 , pr.creation_date cr_dt
 			 , fu1.description cr_by
 			 , pr.last_update_date upd_dt
 			 , fu2.description upd_by

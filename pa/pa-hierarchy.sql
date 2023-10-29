@@ -1,16 +1,18 @@
 /*
-File Name:		pa-hierarchy.sql
-Version:		R12
-Author:			Otcu
-Author URL:		https://github.com/otcu
+File Name: pa-hierarchy.sql
+Version: Oracle Release 12 / R12
+Author: Throwing Cheese
+URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
 
 Queries:
 
 -- GET LIST OF ORGANIZATION HIERARCHIES
 -- PROJECT HIERARCHY TREE VIEW
 -- PROJECT HIERARCHY FLAT VIEW
--- SAMPLE DATA HIERARCHY SQL
--- BASIC HR ORGS
+-- SAMPLE DATA HIERARCHY sql
+Version: Oracle Release 12 / R12
+Author: Throwing Cheese
+URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts-- BASIC HR ORGS
 -- HR ORG CLASSIFICATIONS
 
 */
@@ -66,8 +68,10 @@ select * from apps.per_organization_structures_v;
 		 where pose.org_structure_version_id = 123;
 
 -- ##################################################################
--- SAMPLE DATA HIERARCHY SQL
--- ##################################################################
+-- SAMPLE DATA HIERARCHY sql
+Version: Oracle Release 12 / R12
+Author: Throwing Cheese
+URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts-- ##################################################################
 
 with sample_data as
 (select 159 organization_id_parent, 'ABC CHEESE' d_parent_name, 2504 organization_id_child, 'ABC CHEESE Blue' d_child_name from dual union all

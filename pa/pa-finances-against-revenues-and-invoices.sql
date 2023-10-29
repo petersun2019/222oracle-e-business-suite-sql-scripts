@@ -1,8 +1,8 @@
 /*
-File Name:		pa-finances-against-revenues-and-invoices.sql
-Version:		R12
-Author:			Otcu
-Author URL:		https://github.com/otcu
+File Name: pa-finances-against-revenues-and-invoices.sql
+Version: Oracle Release 12 / R12
+Author: Throwing Cheese
+URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
 
 Queries:
 
