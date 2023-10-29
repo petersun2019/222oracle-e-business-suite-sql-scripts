@@ -3,6 +3,7 @@ File Name: 03-xla-events.sql
 Version: Oracle Release 12 / R12
 Author: Throwing Cheese
 URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
+
 XLA_EVENTS
 This table contains all information related to a specific event
 

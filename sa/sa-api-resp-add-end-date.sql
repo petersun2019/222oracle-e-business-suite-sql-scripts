@@ -3,6 +3,7 @@ File Name: sa-api-resp-add-end-date.sql
 Version: Oracle Release 12 / R12
 Author: Throwing Cheese
 URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
+
 API that can be used to end-date responsibilities assigned to users and resps returned by "respcur" cursor
 */
 

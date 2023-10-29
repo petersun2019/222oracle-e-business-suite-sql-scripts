@@ -15,7 +15,5 @@ See these headings:
 -- VALUE SETS - TABLE VALIDATION DETAILS
 
 In this file: sa-flexfields-validation.sql
-Version: Oracle Release 12 / R12
-Author: Throwing Cheese
-URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
+
 */

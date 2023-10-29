@@ -11,9 +11,6 @@ Queries:
 -- COLUMN COUNT PER FOLDER
 -- SHARED WITH...
 -- FOLDERS SHARED WITH RESPONSIBILITIES - ADMINISTER FOLDERS sql
-Version: Oracle Release 12 / R12
-Author: Throwing Cheese
-URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
 */
 
 -- ##################################################################
@@ -96,9 +93,7 @@ URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
 
 -- ##################################################################
 -- FOLDERS SHARED WITH RESPONSIBILITIES - ADMINISTER FOLDERS sql
-Version: Oracle Release 12 / R12
-Author: Throwing Cheese
-URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts-- ##################################################################
+-- ##################################################################
 
 		select b.application_short_name
 			 , d.responsibility_name

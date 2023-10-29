@@ -3,6 +3,7 @@ File Name: sa-api-user-remove-end-date.sql
 Version: Oracle Release 12 / R12
 Author: Throwing Cheese
 URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
+
 API that can be used remove end-date against user accounts included in the "usercur" cursor
 */
 

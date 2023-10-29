@@ -3,6 +3,7 @@ File Name: sa-business-events.sql
 Version: Oracle Release 12 / R12
 Author: Throwing Cheese
 URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
+
 FROM ABOUT THIS PAGE > CREATESUBSCRIPTIONVO
 /ORACLE/APPS/FND/WF/BES/WEBUI/VIEWSUBSCRIPTIONPG 120.2.12010000.2
 

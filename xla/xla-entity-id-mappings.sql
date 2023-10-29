@@ -3,6 +3,7 @@ File Name: xla-entity-id-mappings.sql
 Version: Oracle Release 12 / R12
 Author: Throwing Cheese
 URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
+
 Why is the XLA_ENTITY_ID_MAPPINGS table useful?
 -- ##################################################################
 
@@ -42,9 +43,7 @@ Having access to the XLA_ENTITY_ID_MAPPINGS helps take the guess work out of lin
 Related Queries:
 
 xla/06-xla-all-joined.sql
-Version: Oracle Release 12 / R12
-Author: Throwing Cheese
-URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
+
 */
 
 -- ##################################################################

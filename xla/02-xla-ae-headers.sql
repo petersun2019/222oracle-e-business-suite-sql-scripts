@@ -3,6 +3,7 @@ File Name: 02-xla-ae-headers.sql
 Version: Oracle Release 12 / R12
 Author: Throwing Cheese
 URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
+
 XLA_AE_HEADERS
 This table contains subledger accounting journal entries
 
