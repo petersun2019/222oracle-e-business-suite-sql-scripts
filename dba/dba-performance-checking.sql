@@ -28,9 +28,7 @@ Queries:
 					 , last_load_time
 					 , sql_text
 				  from v$sql
-Version: Oracle Release 12 / R12
-Author: Throwing Cheese
-URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts			  order by elapsed_time desc)
+			  order by elapsed_time desc)
 		 where rownum < 10;
 
 -- ##################################################################
@@ -50,9 +48,7 @@ URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts			  
 					 , operation
 					 , options
 					 , row_number() over (partition by sql_text order by disk_reads * executions desc) keephighsql
-Version: Oracle Release 12 / R12
-Author: Throwing Cheese
-URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts				from (select avg(disk_reads) over (partition by sql_text) disk_reads
+				from (select avg(disk_reads) over (partition by sql_text) disk_reads
 						   , max(executions) over (partition by sql_text) executions
 						   , t.sql_id
 						   , sql_text

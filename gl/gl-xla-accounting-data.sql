@@ -3,6 +3,7 @@ File Name: gl-xla-accounting-data.sql
 Version: Oracle Release 12 / R12
 Author: Throwing Cheese
 URL: https://github.com/throwing-cheese/oracle-e-business-suite-sql-scripts
+
 More XLA queries are in the xla folder
 
 Queries:
